@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salih Burak</h1>
 <h3 align="center">Student at 42 Istanbul</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 
 - 🔭 I’m currently working on [42 CPP-Modules](https://projects.intra.42.fr/projects/cpp-module-02)
 
