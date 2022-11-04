@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [42 CPP-Modules](https://projects.intra.42.fr/projects/cpp-module-02)
 
-- 🌱 I’m currently learning **C++ and OOP**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **csalihburak@gmail.com**
 
