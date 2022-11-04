@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salih Burak</h1>
-<img align="right" alt="Coding" width="600" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 - 🔭 I’m currently working on [42 CPP-Modules](https://projects.intra.42.fr/projects/cpp-module-02)
