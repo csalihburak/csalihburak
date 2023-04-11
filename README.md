@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
-- 🔭 I’m currently working on [Socket Programing]
+- 🔭 I’m currently working on Socket Programing
 
 - 🌱 I’m currently learning **NestJS**
 
