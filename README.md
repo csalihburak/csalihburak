@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Salih Burak</h1>
 
+<img align="right" alt="Coding" width="500" align="center" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🔭 I’m currently working on Socket Programing
-
-- 🌱 I’m currently learning **NestJS**
-
-- 📫 How to reach me **csalihburak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/salih-burak-%c3%a7o%c5%9fkun-6bb1b21b4?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3by87csxxetzarfpgjznaqow%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/salih-burak-çoşkun-6bb1b21b4" height="15" width="15" /></a>
 </p>
-
-<img align="right" alt="Coding" width="500" align="center" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
