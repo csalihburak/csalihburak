@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Socket Programing](https://projects.intra.42.fr/projects/cpp-module-02)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **NestJS**
 
 - 📫 How to reach me **csalihburak@gmail.com**
 
