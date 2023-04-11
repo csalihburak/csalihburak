@@ -16,4 +16,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a> </p>
 
-<img class="image-align-left" height = "180" src="https://github-readme-stats.vercel.app/api/top-langs?username=csalihburak&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="csalihburak"/><img class="image-align-left" height = "180" src="https://github-readme-streak-stats.herokuapp.com/?user=csalihburak&theme=highcontrast" alt="csalihbura"/>
+<img class="image-align-left" height = "180" src="https://github-readme-stats.vercel.app/api/top-langs?username=csalihburak&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="csalihburak"/><img class="image-align-left" height = "180" src="https://github-readme-streak-stats.herokuapp.com/?user=csalihburak&theme=highcontrast" alt="csalihburak"/>
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csalihburak" alt="csalihburak" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
