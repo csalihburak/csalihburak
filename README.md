@@ -1,16 +1,16 @@
 # Salih Burak
 
-**Co-Founder & Full Stack Developer** at [Flubble Technologies](https://github.com/csalihburak)
+**Co-Founder & Full Stack Developer**
 
-Building **Temizify** — a B2B SaaS platform for cleaning and laundry businesses in Turkey. From mobile apps to backend infrastructure, I own the entire stack.
+I build end-to-end B2B SaaS products — from React Native mobile apps to NestJS backends and cloud infrastructure. Passionate about turning complex business workflows into clean, scalable software.
 
 ---
 
 ### Currently Working On
 
-- Scaling **Temizify** across Web, Android & iOS
+- Full-stack B2B SaaS platform (Web, Android & iOS)
 - Subscription billing architecture with iyzico & RevenueCat
-- Thermal printing integrations (ESC/POS, BLE, Niimbot)
+- Thermal printing integrations (ESC/POS, BLE)
 - Azure cloud infrastructure & CI/CD pipelines
 
 ---
@@ -69,5 +69,5 @@ Building **Temizify** — a B2B SaaS platform for cleaning and laundry businesse
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salih-burak-coskun/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:burak.coskun@flubble.io)
